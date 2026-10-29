@@ -2,7 +2,7 @@
 
 Nine probability models, about 150 real-time indicators and 32 years of out-of-sample forecasts (1993–2025) of two events within the next twelve months: a US recession, and a fall of at least 20% in the stock market.
 
-**Read the report:** https://speedkelvyn.github.io/Speedy.github.io/projects/recession-risk/
+**Read the report:** https://speedkelvyn.github.io/Recession-Risk-Study/
 
 ## Findings
 
